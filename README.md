@@ -1,7 +1,7 @@
 Hi, folks ! :v:
 
 
-My name is **Carlos Barros** from Brazil. I've been working and studying developing **Front-End** and **Back-End** since 2015 in university. I'm working currently as a developer freelancer and entrepreneur at Coding Labs (Future Game Studio).
+My name is **Carlos Barros** from Brazil. I've been working and studying developing **Front-End** and **Back-End** since 2015 at the university. I'm working currently as a developer freelancer and entrepreneur at Coding Labs (Future Game Studio).
 
 Passionate about games development/(play), technology enthusiast. I have a mission,to impact the lives of people positive form, my daily motivation is to continue with studies in technologies such as **C#**, **Unity**, **NETCore**, **Javascript**, **React**, and **NodeJS** to achieve this goal.:dart: 
 
