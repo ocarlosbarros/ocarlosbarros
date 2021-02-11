@@ -15,7 +15,7 @@ In my free time, I like to play videogames :space_invader:, watch series, movies
 
 ### Front-End
 
-![Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3) ![Badge](https://img.shields.io/badge/Bootstrap-%237159c1?style=for-the-badge&logo=bootstrap&logoColor=FFF) ![Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF) ![Badge](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react) ![Badge](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular) ![Badge](https://img.shields.io/badge/Vue-%2335495e?style=for-the-badge&logo=vue.js)
+![Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3) ![Badge](https://img.shields.io/badge/Bootstrap-%237159c1?style=for-the-badge&logo=bootstrap&logoColor=FFF) ![Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF) ![Badge](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react) ![Badge](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular) 
 
 ### Back-End
 
