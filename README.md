@@ -7,7 +7,16 @@ Passionate about games development/(play), technology enthusiast. I have a missi
 
 In my free time, I like to play videogames :space_invader:, watch series, movies, animes :movie_camera: and basketball :basketball:, read books :books: about philosophy or spiritualism :pray:, and eventually drink some beers :beers:.
 
-## :computer:Technologies and Tools
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ocarlosbarros&show_icons=true&theme=highcontrast" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlosbarros&layout=compact&theme=highcontrast" />
+</a>
+
+## **Languages and Tools**
+
 
 ### Design
 
@@ -15,7 +24,7 @@ In my free time, I like to play videogames :space_invader:, watch series, movies
 
 ### Front-End
 
-![Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3) ![Badge](https://img.shields.io/badge/Bootstrap-%237159c1?style=for-the-badge&logo=bootstrap&logoColor=FFF) ![Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF) ![Badge](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react) ![Badge](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular) 
+![Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3) ![Badge](https://img.shields.io/badge/Bootstrap-%237159c1?style=for-the-badge&logo=bootstrap&logoColor=FFF) ![Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF) ![Badge](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
 
 ### Back-End
 
