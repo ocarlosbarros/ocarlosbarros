@@ -1,46 +1,45 @@
-Hi, folks ! :v:
+# Olá, sou **Carlos Barros** !
 
+- 👨🏾‍🎓 Formado em Desenvolvimento Web Fullstack na Trybe
+- 🌱 Estudando Nest.js
 
-My name is **Carlos Barros** from Brazil. I've been working and studying developing **Front-End** and **Back-End**. Currently studying Full Stack Development at Trybe.
+## 💻 Technologies and Tools
 
-Passionate about technology, games and enthusiast of creative areas. I love learning new things, new technologies and seek to specialize in 💛 **Javascript**,  💙 **React**, and 💚 **NodeJS**.  
+#
 
-I have a mission to impact people's lives in a positive way, and make the world a better place. :recycle:
+<div style="display:flex; justify-content:space-between">
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img width="30em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/
+javascript-original.svg" />
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img width="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img width="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+</div>
 
-In my free time, I like to play videogames :space_invader:, watch series/movies or animes :movie_camera:, read books :books: about philosophy or spiritualism :pray: or any interesting topic. I'm also passionate about basketball :basketball: and eventually drink some beers :beers:.
+#
 
+<a href="https://www.linkedin.com/in/ocarlosbarros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UC1xY9hXr4h_77rfKKk-i3Vg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/o_carlosbarros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:carlos_dbs@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ocarlosbarros&show_icons=true&theme=highcontrast" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlosbarros&layout=compact&theme=highcontrast" />
-</a>
+## 🌟 Github Stats
 
+#
 
-## **Languages and Tools**
-
-
-### Front-End
-
-![Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFF) ![Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3) ![Badge](https://img.shields.io/badge/Bootstrap-%237159c1?style=for-the-badge&logo=bootstrap&logoColor=FFF) ![Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF) ![Badge](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
-
-### Back-End
-
-![Badge](https://img.shields.io/badge/Node.JS-%23339933?style=for-the-badge&logo=node.js&logoColor=FFF)![Badge](https://img.shields.io/badge/Express-%23000?style=for-the-badge&logo=express)
-![Badge](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c%20sharp) ![Badge](https://img.shields.io/badge/.NET%20Core-%23671473?style=for-the-badge&logo=c%20sharp)
-
-### Design
-
-![Badge](https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=FFF) ![Badge](https://img.shields.io/badge/Illustrator-%23FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=FFF) ![Badge](https://img.shields.io/badge/Adobe%20XD-%23FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=FFF)
-
-### Tools
-
-![Badge](https://img.shields.io/badge/VSCODE-%23007ACC?style=for-the-badge&logo=visual%20studio%20code) ![Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visual%20studio) ![Badge](https://img.shields.io/badge/Npm-%23CB3837?style=for-the-badge&logo=npm)![Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github) ![Badge](https://img.shields.io/badge/Spotify-%231ED722?style=for-the-badge&logo=spotify&logoColor=FFF)
-
-
-### Would you like to find me ?
-
-[![Badge](https://img.shields.io/badge/-Carlos%20Barros-%230077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ocarlosbarros/) [![Badge](https://img.shields.io/badge/-@o__carlosbarros-%231DA1F2?style=flat&logo=twitter&logoColor=FFF)](https://twitter.com/o_carlosbarros) [![Badge](https://img.shields.io/badge/-carlos__dbs@hotmail.com-%230078D4?style=flat&logo=microsoft%20outlook)](mailto:carlos_dbs@hotmail.com)
-
-
+<div style="display: flex">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ocarlosbarros&show_icons=true&theme=highcontrast" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="margin-left:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlosbarros&layout=compact&theme=highcontrast" />
+    </a>
+</div>
