@@ -32,9 +32,9 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ocarlosbarros&show_icons=true&theme=highcontrast" />
+    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=ocarlosbarros&show_icons=true&theme=highcontrast" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="margin-left:2em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlosbarros&layout=compact&theme=highcontrast" />
+    <img style="margin-left:4em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlosbarros&layout=compact&theme=highcontrast" />
     </a>
 </div>
