@@ -34,11 +34,11 @@
 
 #
 
-<div style="display:flex; justify-content:space-between">
+<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="250em" src="https://github-readme-stats.vercel.app/api?username=ocarlosbarros&show_icons=true&theme=highcontrast" />
+    <img width="300em" src="https://github-readme-stats.vercel.app/api?username=ocarlosbarros&show_icons=true&theme=highcontrast" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlosbarros&layout=compact&theme=highcontrast" />
+    <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlosbarros&layout=compact&theme=highcontrast" />
     </a>
 </div>
