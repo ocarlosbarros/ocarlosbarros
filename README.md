@@ -1,7 +1,8 @@
 # Olá, sou **Carlos Barros** !
 
 - 👨🏾‍🎓 Formado em Desenvolvimento Web Fullstack na Trybe
-- 🌱 Estudando Nest.js
+- 🌱 Estudando Front-end
+- 📚 [Leituras recentes](https://www.goodreads.com/user/show/63176566-carlos-barros)
 
 ## 💻 Technologies and Tools
 
