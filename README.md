@@ -1,7 +1,7 @@
 # Olá, sou **Carlos Barros** !
 
 - 👨🏾‍🎓 Formado em Desenvolvimento Web Fullstack na Trybe
-- 🌱 Estudando Front-end
+- 🌱 Foco Back-end .NET Core
 - 📚 [Leituras recentes](https://www.goodreads.com/user/show/63176566-carlos-barros)
 
 ## 💻 Technologies and Tools
@@ -16,6 +16,8 @@
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" />
+    <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
