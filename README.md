@@ -8,6 +8,7 @@
 </div>
 
 
+
 - 👨🏾‍🎓 Formado em Desenvolvimento Web Fullstack na Trybe
 - 🌱 Foco Back-end .NET Core
 - 📚 [Leituras recentes](https://www.skoob.com.br/usuario/9023426)
