@@ -7,7 +7,7 @@
 <a href = "mailto:carlos_dbs@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-
+<br />
 
 - 👨🏾‍🎓 Formado em Desenvolvimento Web Fullstack na Trybe
 - 🌱 Foco Back-end .NET Core
