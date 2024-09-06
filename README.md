@@ -4,13 +4,13 @@
 <a href="https://www.linkedin.com/in/ocarlosbarros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UC1xY9hXr4h_77rfKKk-i3Vg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/ocarlosbarrosdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:carlos_dbs@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:carlosbarros.dev@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
 <br />
-
+- :video_game: Estudante de Jogos Digitias pela FATEC - Carapicuíba
 - 👨🏾‍🎓 Formado em Desenvolvimento Web Fullstack na Trybe
-- 🌱 Foco Back-end .NET Core
+- 🌱 Desenvolvedor Backend
 - 📚 [Leituras recentes](https://www.skoob.com.br/usuario/9023426)
 
 ## 💻 Technologies and Tools
@@ -29,15 +29,4 @@
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-</div>
-
-## 🌟 Github Stats
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=ocarlosbarros&show_icons=true&theme=highcontrast" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="margin-left:4em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlosbarros&layout=compact&theme=highcontrast" />
-    </a>
 </div>
