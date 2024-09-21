@@ -9,7 +9,7 @@
 
 <br />
 
-- :video_game: Estudante de Jogos Digitias pela FATEC - Carapicuíba
+- :video_game: Estudante de Jogos Digitais pela FATEC - Carapicuíba
 - 👨🏾‍🎓 Formado em Desenvolvimento Web Fullstack na Trybe
 - :seedling: Desenvolvedor Backend
 - :books: [Leituras recentes](https://www.skoob.com.br/usuario/9023426)
